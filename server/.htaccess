@@ -1,0 +1,4 @@
+PassengerEnabled On
+PassengerAppType node
+PassengerStartupFile server.js
+PassengerNodejs /usr/bin/node
